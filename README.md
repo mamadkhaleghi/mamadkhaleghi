@@ -4,7 +4,7 @@ I am an **AI Researcher** focused on **Deep Learning** and **Multimodal Represen
 While my recent work bridges Computer Vision and Semantics, I am broadly interested in solving complex problems in **Generative AI, NLP, and Cognitive Modeling**.
 
 - 📄 **Key Publication:** First Author of **GraPLUS** (*Computer Vision and Image Understanding*, Q1 Elsevier).
-- 🎓 **Education:** M.Sc. in Artificial Intelligence @ IUT (GPA: 18.68/20).
+- 🎓 **Education:** M.Sc. in Artificial Intelligence @ IUT.
 - 🧠 **Core Focus:** Designing architectures that bridge the gap between different data modalities (Vision & Language).
 
 #### 🛠 Technical Stack
