@@ -1,4 +1,4 @@
-### Hi there, I'm Mir Mohammad (Mamad) Khaleghi 👋
+### Hi there, I'm Mir Mohammad Khaleghi 👋
 
 I am an **AI Researcher** focused on **Deep Learning** and **Multimodal Representations**.
 While my recent work bridges Computer Vision and Semantics, I am broadly interested in solving complex problems in **Generative AI, NLP, and Cognitive Modeling**.
